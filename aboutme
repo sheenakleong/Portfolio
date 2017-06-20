@@ -14,9 +14,16 @@ p.sansserif {
 </style>
 <body style=background-color:#FF9983;>
 
-<h1 style= color:white;font-family:times,serif;font-size:28pt;font-style:italic;text-align:center>This is Sheena's About Me Page.</h1>
-<p style= color:#FDE7E3;text-align:center>Welcome!</p>
-<p2 style=color:white;text-align:center;font-family:Avantgarde,sans-serif>I am currently a junior at Lowell High School, located in San Francisco! I am passionate about acting, dancing, visual arts, and I am just beginning to touch on programming and coding. I can speak Mandarin, Cantonese, Japanese and English fluently,and I have yet to learn new computer languages. I have tabs for my works, contact information, blog and social media, so feel free to check those out too. Thanks!</p2>
+<h1 style= color:white;font-family:times,serif;font-size:28pt;font-style:italic;text-align:center;text-decoration:underline>Information About Me</h1>
+<p style= color:#FDE7E3;text-align:center>Welcome! If you're interested for more information, please check out my "contact me" page :)</p>
+<h2 style= color:white;font-style:italic;text-decoration:underline;>Background Information</h2>
+<p2 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>-I am currently a junior at Lowell High School, which is located in the beautiful city of San Francisco!I am passionate about acting, dancing, visual arts, and I am just beginning to touch on programming and coding. I speak Mandarin, Cantonese, Japanese and English fluently,and I have yet to learn new computer languages. I have created tabs for my works, contact information, blog and social media accounts, so feel free to check those out too. Thanks!</p2>
+<h3 style=color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>Here are some links to my social media!</h3>
+<p4 style=color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>Instagram:<a href="http://instagram.com/sheenaleong/">Sheena Kanon Leong on Instagram</a></p>
+<p5 style=color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>
+VSCO:<a href="http://vsco.co/sheenakanon/images/1">Sheena Kanon Leong on VSCO</a></p>
+
+
 
 </body>
 </html>
