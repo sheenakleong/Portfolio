@@ -12,10 +12,11 @@ p.sansserif {
 <title>Page Title</title>
 </head>
 </style>
-<body style=background-color:darksalmon;>
+<body style=background-color:#FF9983;>
 
 <h1 style= color:white;font-family:times,serif;font-size:28pt;font-style:italic;text-align:center>This is Sheena's About Me Page.</h1>
-<p style= color:white;text-align:center>Welcome!</p>
+<p style= color:#FDE7E3;text-align:center>Welcome!</p>
+<p2 style=color:white;text-align:center;font-family:Avantgarde,sans-serif>I am currently a junior at Lowell High School, located in San Francisco! I am passionate about acting, dancing, visual arts, and I am just beginning to touch on programming and coding. I can speak Mandarin, Cantonese, Japanese and English fluently,and I have yet to learn new computer languages. I have tabs for my works, contact information, blog and social media, so feel free to check those out too. Thanks!</p2>
 
 </body>
 </html>
