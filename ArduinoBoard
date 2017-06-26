@@ -1,0 +1,72 @@
+<img src=http://txt-dynamic.static.1001fonts.net/txt/dHRmLjcyLjAwMDAwMC5VR3hoZVdsdVp5QkJjbTkxYm1RZ1YybDBhQ0JCY21SMWFXNXZJRUp2WVhKa2N3LCwuMA,,/let-that-be-enough.regular.png alt="PWADB" width="650" height="100">
+
+<p style= color:white;text-align:center>Today (6/26/17), we were able to play around with arduino boards, and we learned about circuit boards, and what each component is supposed to do when the robot is in motion.</p> 
+<img src="http://feelyou.net/wp-content/uploads/2015/06/illust2453.png" alt="Smiley face" width="450" height="180">
+<img src="http://www.wanpug.com/illust/illust1499.png" alt="Smiley face" width="150" height="150">
+
+<h2 style= color:white;text-decoration:underline;font-size:30px>User Input:</h2>
+<p2 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>-User Input enables the user of the application to interact with the program by having them manually input their response via keyboard.</p2>
+<h3 style= color:white;text-align:center;font-size:20px>In Python:</h3>
+<p3 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>An example pulled from python would be:</p3>
+<p4 style= color:#FF00FF;font-family:courier>if </p4>
+<p5 style=color:white;font-family:courier> user_input== "x"...</p5>
+
+<h4 style=color:white;text-align:center;font-size:20px>In Scratch:</h4> 
+<img src="http://www.multiwingspan.co.uk/images/scratch/scratch006.png" alt="Smiley face" width="150" height="150">
+<img src="https://www.edutopia.org/sites/default/files/styles/responsive_1400px/public/media/6ryderscratch3-mainprocedure.png?itok=OOH3I7QR&timestamp=1409090463" alt="Smiley face" width="150" height="150">
+<img src="https://assets.podomatic.net/ts/c9/5b/eb/vliege/240x240_9831622.png" alt="Smiley face" width="150" height="150">
+<h5 style=color:white;text-align:center;font-size:20px>Real-life Analogy:</h5> 
+<p6 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>A multiple choice test? The program analyzes possibilities based on user input.</p6>
+
+<h6 style= color:white;text-decoration:underline;font-size:30px>Variables:</h6>
+
+<p2 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>Variables are factors used in computer programming that are subject to change based on other factors in the program, meaning it can be substituted as something.</p2>
+<h3 style= color:white;text-align:center;font-size:20px>In Python:</h3>
+<p3 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>An example pulled from python would be:</p3>
+<p5 style=color:white;font-family:courier> f=</p5>
+<p4 style= color:red;font-family:courier>0</p4>
+
+<h4 style=color:white;text-align:center;font-size:20px>In Scratch:</h4> 
+<img src="http://www.i-programmer.info/images/stories/Core/OtherLang/Scratch/bounce32.gif" alt="Smiley face" width="150" height="150">
+<img src="http://cs.harvard.edu/malan/scratch/forevercount.gif" alt="Smiley face" width="150" height="150">
+<img src="http://sci-tech.fr/wp-content/uploads/2015/02/Donnees4.jpg" alt="Smiley face" width="150" height="150">
+<h5 style=color:white;text-align:center;font-size:20px>Real-life Analogy:</h5> 
+<p6 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>Sweetners as in coffee. Instead of using sugar, you can use splenda, sweet'n'low, etc.</p6>
+
+<h6 style= color:white;text-decoration:underline;font-size:30px>Loops:</h6>
+
+<p2 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>Loops are a handy tool used when a programmer wants to repeat certain steps multiple times. Loops can be used for a set amount of times until it moves on to the next step, or forever!</p2>
+<h3 style= color:white;text-align:center;font-size:20px>In Python:</h3>
+<p3 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>An example pulled from python would be:</p3>
+<p5 style=color:#cc5200;font-family:courier> while</p5>
+<p4 style= color:black;font-family:courier> (number<=10):total=total+number, number+1= </p4>
+<p4 style= color:#FF00FF;font-family:courier>print</p4>
+<p4 style= color:39ac39;font-family:courier>("Value of Total From the While Loop is, total")</p4>
+
+
+<h4 style=color:white;text-align:center;font-size:20px>In Scratch:</h4> 
+<img src="https://forrestercomputing.wikispaces.com/file/view/Scratch_Repeat.jpg/331099970/Scratch_Repeat.jpg" alt="Smiley face" width="150" height="150">
+<img src="http://www.hummingbirdkit.com/sites/default/files/scratchloops00.png" alt="Smiley face" width="150" height="150">
+<img src="http://www.multiwingspan.co.uk/images/scratch/scratch028.png" alt="Smiley face" width="150" height="150">
+<h5 style=color:white;text-align:center;font-size:20px>Real-life Analogy:</h5> 
+<p6 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>The connectable train tracks in kids toys where it allows the train to loop in a circle multiple times. </p6>
+
+<h2 style= color:white;text-decoration:underline;font-size:30px>Conditionals:</h2>
+<p2 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>-Conditionals are essentially if-then statements available in computer programming, which allows programmers and users </p2>
+<h3 style= color:white;text-align:center;font-size:20px>In Python:</h3>
+<p3 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>An example pulled from python would be:</p3>
+<p4 style= color:#FF00FF;font-family:courier>if </p4>
+<p5 style=color:white;font-family:courier> user_input== "x"...</p5>
+
+<h4 style=color:white;text-align:center;font-size:20px>In Scratch:</h4> 
+<img src="http://www.multiwingspan.co.uk/images/scratch/scratch006.png" alt="Smiley face" width="150" height="150">
+<img src="https://www.edutopia.org/sites/default/files/styles/responsive_1400px/public/media/6ryderscratch3-mainprocedure.png?itok=OOH3I7QR&timestamp=1409090463" alt="Smiley face" width="150" height="150">
+<img src="https://assets.podomatic.net/ts/c9/5b/eb/vliege/240x240_9831622.png" alt="Smiley face" width="150" height="150">
+<h5 style=color:white;text-align:center;font-size:20px>Real-life Analogy:</h5> 
+<p6 style= color:#FDE7E3;text-align:center;font-family:Avantgarde,sans-serif>A multiple choice test? The program analyzes possibilities based on user input.</p6>
+
+
+
+
+</body>
+</html>
